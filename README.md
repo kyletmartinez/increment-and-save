@@ -25,11 +25,7 @@ This tool streamlines version control for individual files by:
 
 ### 1. Download the Script
 
-Clone this repository or download `main.sh`:
-
-```bash
-git clone https://github.com/yourusername/increment-and-save.git
-```
+Copy the contents of `main.sh`
 
 ### 2. Create Automator Quick Action
 
